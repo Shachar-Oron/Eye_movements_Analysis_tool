@@ -84,7 +84,7 @@ visualization of a heatmap next to the eye movements trajectory:
 </p>
 visualization of a one picture with multiple eye movements of different participants:
 <p align="center">
-  <img src="https://github.com/Shachar-Oron/Eye_movements_Analysis_tool/blob/main/WhatsApp%20Image%202024-06-30%20at%2020.45.12_a922df20.jpg ?raw=true" alt="level 1" width="45%"/>
+  <img src="https://github.com/Shachar-Oron/Eye_movements_Analysis_tool/blob/main/WhatsApp%20Image%202024-06-30%20at%2020.45.12_a922df20.jpg?raw=true" alt="level 1" width="45%"/>
 </p>
 
 
